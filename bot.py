@@ -1,3 +1,4 @@
+!pip install python-telegram-bot
 import logging
 import nest_asyncio
 import asyncio
